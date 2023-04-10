@@ -25,4 +25,4 @@ select * from crime_scene_report where city = 'SQL City' AND date = 20180115
 ### Crédits :
 TP crée par [knight lab](https://mystery.knightlab.com)
 
-**On ne regarde pas les solutions avant d'avoir essayé de résoudre le TP**
+**On ne regarde pas les solutions avant d'avoir essayé de résoudre le TP**camCam
