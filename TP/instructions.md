@@ -1,9 +1,10 @@
-# 
+# TP SQL: Crime Scene Report 
 
-
+Il n'y pas de temps imparti pour ce TP. Vous pouvez le faire à votre rythme, et m'envoyer un message.
+Un petit conseil, ne vous lancez pas dans le TP sans avoir lu les instructions, analysez le diagramme de la base de données, et essayez de comprendre la structure de la base de données.
 
 ## Contexte : 
-Nous avons besoin de votre aide pour résoudre une enquête criminelle. Un crime a été commis à SQL City le 15 janvier 2018, et nous avons perdu le rapport de la scène de crime. Votre mission consiste à récupérer ce rapport à partir de la base de données du département de police. Nous avons affaire à un meurtre et votre travail est essentiel pour faire progresser notre enquête. Nous comptons sur votre expertise en SQL pour nous aider à retrouver les informations nécessaires à la résolution de cette affaire. Bonne chance dans cette mission cruciale.
+Nous avons besoin de votre aide pour résoudre une enquête criminelle. Un crime a été commis à **SQL City** le **15 janvier 2018**, et nous avons perdu le rapport de la scène de crime. Votre mission consiste à récupérer ce rapport à partir de la base de données du département de police. Nous avons affaire à **un meurtre** et votre travail est essentiel pour faire progresser notre enquête. Nous comptons sur votre expertise en SQL pour nous aider à retrouver les informations nécessaires à la résolution de cette affaire. Bonne chance dans cette mission cruciale.
 
 ## Instructions :
 1. Importer la base de données du département de police dans votre environnement de travail.
@@ -17,10 +18,11 @@ Voici une première requête pour vous aider à comprendre la structure de la ba
 ```sql
 select * from crime_scene_report where city = 'SQL City' AND date = 20180115
 ```
-### Diagramme de la base de données :
+## Diagramme de la base de données :
 
 ![ER](../images/crime_scene_report.png)
 
-
+### Crédits :
 TP crée par [knight lab](https://mystery.knightlab.com)
+
 **On ne regarde pas les solutions avant d'avoir essayé de résoudre le TP**
