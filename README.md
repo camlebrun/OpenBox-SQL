@@ -18,5 +18,5 @@ Les cours suivants sont disponibles dans ce repository :
 ## TP
 Résoudre un cleudo en SQL ! 
 
-Pour la partie conception de la base de données, vous pouvez utiliser [dbdiagram.io](dbdiagram.io) et le très bon cours l'Université de Strasbourg sur les bases de données relationnelles : [ici](https://colibri.unistra.fr/fr/course/list/concevoir-une-base-de-donnees)
+Pour la partie conception de la base de données, vous pouvez utiliser [dbdiagram](https://dbdiagram.io/home) et le très bon cours l'Université de Strasbourg sur les bases de données relationnelles : [ici](https://colibri.unistra.fr/fr/course/list/concevoir-une-base-de-donnees)
 
