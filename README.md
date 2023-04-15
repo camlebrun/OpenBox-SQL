@@ -10,13 +10,14 @@ Les cours suivants sont disponibles dans ce repository :
   * Fonction d'agrégation 
   * Les jointures
   * les window functions
-  * les CTE
+  * les CTEs
 * Les bonnes pratiques de SQL
 * Soon : 
   * Python et SQL
  
 ## TP
-Résoudre un cleudo en SQL ! 
+* Résoudre un cleudo en SQL ! 
+* Mise en pratique de cet [article -7 Advanced SQL Query Examples](https://medium.com/@cihan.evren/7-advanced-sql-query-examples-828a60eb450c)
 
 Pour la partie conception de la base de données, vous pouvez utiliser [dbdiagram](https://dbdiagram.io/home) et le très bon cours l'Université de Strasbourg sur les bases de données relationnelles : [ici](https://colibri.unistra.fr/fr/course/list/concevoir-une-base-de-donnees)
 
